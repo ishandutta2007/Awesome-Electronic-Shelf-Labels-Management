@@ -40,37 +40,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-
-
-- **[SES-imagotag / VusionCloud](https://www.ses-imagotag.com/)**  
-
-  Global leader in electronic shelf labels and cloud management platforms, offering large-scale retail ESL deployments, real-time pricing, and VusionGroup ecosystem solutions.
-
-
-
-- **[Hanshow](https://www.hanshow.com/)**  
-
-  Major ESL provider with cloud management platforms, multi-protocol labels, and integrated retail digital solutions used worldwide.
-
-
-
-- **[Solum ESL](https://www.solumesl.com/)**  
-
-  Electronic shelf label systems with management software for price updates, promotions, and store-wide label control.
-
-
-
-- **[Pricer Plaza](https://www.pricer.com/)**  
-
-  Optical and radio-based ESL platform with central management for dynamic pricing and retail operations.
-
-
-
-- **[Zkong Cloud](https://www.zkong.com/)**, **[E Ink ESL Platform](https://www.eink.com/)**, **[JRTech](https://www.jrtech.com/)**, **[Displaydata](https://www.displaydata.com/)**, **[Altierre](https://www.altierre.com/)**  
-
-  Additional commercial ESL hardware and cloud management platforms supporting various communication protocols, form factors, and retail integrations.
+| Product / Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[SES-imagotag / VusionCloud](https://www.ses-imagotag.com/)** | Global leader in electronic shelf labels and cloud management platforms, offering large-scale retail ESL deployments and VusionGroup ecosystem solutions. | Hardware: $5–$20/label (basic e-ink) to $50+/label; Cloud platform priced via enterprise subscription starting ~$500/year platform fee + maintenance. | No free tier; standard 30-day guided enterprise demo/PoC available upon inquiry. |
+| **[Hanshow](https://www.hanshow.com/)** | Major ESL provider with cloud management platforms, multi-protocol labels, and integrated retail digital signage solutions. | Hardware: $6–$22/label depending on size; Cloud/SaaS software subscription starting ~$350/year base tier for retail management. | No free tier; 14-day to 30-day proof-of-concept (PoC) software trial available upon sales request. |
+| **[Solum ESL](https://www.solumesl.com/)** | Electronic shelf label systems with AIMS management software for price updates, promotions, and store-wide label control. | Hardware: Newton labels $7–$25/unit; Gateway hardware ~$250–$600; AIMS SaaS software subscription starting ~$400/year. | Starter Pack (€1,499 for 50 labels + AP) includes a 60-day free software trial; no permanent free tier. |
+| **[Pricer Plaza](https://www.pricer.com/)** | Optical and radio-based ESL platform with central management for dynamic pricing and retail operations. | Hardware: SmartTAG labels $8–$30/unit; Optical IR Access Points ~$300–$500/unit; Pricer Plaza SaaS starting ~$500/year platform license. | No free tier; 30-day pilot/demo program available for enterprise testing. |
+| **[Zkong Cloud](https://www.zkong.com/)** | Cloud-native ESL platform supporting public SaaS, private cloud, and on-premises deployments. | Hardware: $5–$18/label; Cloud SaaS management subscription starting ~$30/month ($360/year) for basic store management. | 30-day full feature SaaS demo account; no permanent free tier. |
+| **[E Ink ESL Platform](https://www.eink.com/)** | E-Paper display technology platform powering commercial ESL hardware and cloud management ecosystems. | Module/hardware component pricing ranges $4–$15/unit display module; ecosystem SaaS integrations starting ~$300/year per store. | No free tier; developer kits include 30-day software access for display evaluation. |
+| **[JRTech](https://www.jrtech.com/)** | North American retail technology provider specializing in Pricer IR electronic shelf label infrastructure and management. | Turnkey bundled deployment starting ~$15/label (includes hardware + gateway + Pricer software tier). | No free tier; 30-day on-site pilot program available for qualified retail stores. |
+| **[Displaydata](https://www.displaydata.com/)** | Enterprise electronic shelf label platform with high-resolution e-paper displays and Dynamic Central Communicator software. | Hardware: $6–$25/label; Gateway hardware ~$400; Software license starting ~$450/year per store location. | No free tier; 30-day proof-of-concept evaluation program available upon request. |
+| **[Altierre](https://www.altierre.com/)** | Long-range wireless ESL and digital sign platform engineered for large-scale retail chain deployments. | Enterprise package pricing starting ~$12–$25 per endpoint (hardware + gateway + central wireless management software license). | No free tier; 30-day pilot deployment available for chain retail evaluation. |
 
 
 
